@@ -2,7 +2,7 @@
 <img src="https://i.top4top.io/p_1799eozcs0.jpg" width="230" height="230"/>
 </p>
 <p align="center">
-<a href="#"><img title="Choper" src="https://img.shields.io/badge/AR15BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Choper" src="https://img.shields.io/badge/Choper-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/imamsyahfa2005"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ISP-orange.svg?style=for-the-badge&logo=github"></a>
@@ -17,13 +17,6 @@
 <details>
  
 </details>
-
-### WARNING
-MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
-
-## NOTE:> 
-SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
-</div>
 
 ### Alat Dan Bahan
 Siapin alat dan bahannya.
